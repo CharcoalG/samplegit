@@ -1,2 +1,2 @@
 # samplegit
-sample 
+sample git folder
